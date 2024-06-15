@@ -50,7 +50,7 @@ emyPxgcYxn/eR44/KJ4EBs+lVDR3veyJm+kXQ99b21/+jh5Xos1AnX5iItreGCc=
 )EOF";
 
 // DHT sensor settings
-#define PinDht 4
+#define PinDht 27
 #define TypeDht DHT11
 DHT dht(PinDht, TypeDht);
 
